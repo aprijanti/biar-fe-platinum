@@ -1,0 +1,23 @@
+.hero {
+    background:#F1F3FF;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0 0 100px;
+}
+
+.hero-deskripsi {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding-right: 100px;
+}
+
+.hero-gambar {
+    width: 50%;
+    margin-top: 30px;
+}
+
+.hero-gambar img {
+    max-width: 100%;
+}

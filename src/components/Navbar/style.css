@@ -1,0 +1,13 @@
+.nav {
+    background:#F1F3FF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 150px 0 100px;
+}
+
+.nav-link {
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+}
